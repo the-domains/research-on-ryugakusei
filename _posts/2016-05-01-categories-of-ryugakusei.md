@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Categories of Ryugakusei
-datePublished: '2016-05-01T07:46:13.637Z'
-dateModified: '2016-05-01T07:46:07.334Z'
+datePublished: '2016-05-01T07:48:27.540Z'
+dateModified: '2016-05-01T07:47:36.536Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-01-categories-of-ryugakusei.md
