@@ -1,0 +1,28 @@
+name: Research on Ryugakusei
+favicon: null
+layout_spectrum: 0.03643319406546652
+typography_spectrum: 0.8771953643299639
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.601607185555622
+  lightness: 0.963434984209016
+  saturation: 0.7125278383027762
+  rhythmicContrast: 0.08024034881964326
+purpose: []
