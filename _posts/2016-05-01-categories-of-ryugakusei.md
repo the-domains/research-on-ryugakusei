@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Categories of Ryugakusei
-datePublished: '2016-05-01T07:45:07.853Z'
-dateModified: '2016-05-01T07:44:03.909Z'
+datePublished: '2016-05-01T07:46:13.637Z'
+dateModified: '2016-05-01T07:46:07.334Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-01-categories-of-ryugakusei.md
@@ -22,6 +22,8 @@ url: categories-of-ryugakusei/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/94667d07-947f-437f-968f-2b3d86c0679f.jpg)
+
 Categories of Ryugakusei
 
 1\. Students who have entered a Japanese college or university with the intention of getting a degree. These students, primarily from Asia, have advanced Japanese skills, usually obtained through extensive study both in their place of origin or in languages in Japan. The bulk of _ryugakusei _in Japan are in this category. To the extent that they have chosen to leave their country of origin and study in Japan we must inquire as to why this is the case? What didn't they like about university in their country of origin? In China? In South Korea? In Vietnam? In Nepal? Etc.? Often times, the students are in Japan to both study and work. In some cases, the study is only a way into Japan in order to work, earn money, and send the money back home.
