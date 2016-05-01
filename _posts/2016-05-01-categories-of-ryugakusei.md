@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Categories of Ryugakusei
-datePublished: '2016-05-01T07:39:26.033Z'
-dateModified: '2016-05-01T07:38:57.954Z'
+datePublished: '2016-05-01T07:42:16.242Z'
+dateModified: '2016-05-01T07:39:33.964Z'
+title: ''
+author: []
+sourcePath: _posts/2016-05-01-categories-of-ryugakusei.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: ''
-author: []
 starred: false
-sourcePath: _posts/2016-05-01-categories-of-ryugakusei.md
-published: true
 url: categories-of-ryugakusei/index.html
 _type: Article
 
