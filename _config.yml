@@ -1,5 +1,7 @@
-favicon: null
-name: Research on Ryugakusei
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -18,23 +20,21 @@ collections:
       number: 10
 purpose: []
 color:
-  saturation: 0.7125278383027762
+  saturation: 1
   brandStrength: 1
-  lightness: 0.963434984209016
+  lightness: 0.963435
   brandColors:
     - '#12110F'
     - '#FFFDF1'
     - '#B9B1A6'
     - '#916A3F'
     - '#D68D3E'
-  rhythmicContrast: 0.08024034881964326
+  rhythmicContrast: 0.08024035
 typography_spectrum: 0.74279
-layout_spectrum: 0.75384
-analytics:
-  twitter: null
-  google: null
-  facebook: null
 cta:
   bucket: null
   version: null
   domain: null
+layout_spectrum: 0.75384
+favicon: null
+name: Research on Ryugakusei
