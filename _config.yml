@@ -1,28 +1,40 @@
-name: Research on Ryugakusei
 favicon: null
-layout_spectrum: 0.75384
-typography_spectrum: 0.74279
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Research on Ryugakusei
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#fdfdfd'
-    - '#b4b4b4'
-    - '#616161'
-    - '#414141'
-    - '#0d0d0d'
-  brandStrength: 0.601607185555622
-  lightness: 0.963434984209016
-  saturation: 0.7125278383027762
-  rhythmicContrast: 0.08024034881964326
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.7125278383027762
+  brandStrength: 1
+  lightness: 0.963434984209016
+  brandColors:
+    - '#12110F'
+    - '#FFFDF1'
+    - '#B9B1A6'
+    - '#916A3F'
+    - '#D68D3E'
+  rhythmicContrast: 0.08024034881964326
+typography_spectrum: 0.74279
+layout_spectrum: 0.75384
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
